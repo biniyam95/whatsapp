@@ -1,0 +1,142 @@
+.box21-p1{
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 33px;
+  line-height: 43px;
+  width: 300px;
+}
+.box21-p2{
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 26px;
+}
+.box21-p3{
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+  color:rgb(94,94,94);
+}
+.devices{
+  display: flex;
+  flex-direction: column;
+}
+
+
+/*part3*/
+.box31-p1{
+  font-size: 34px;
+  line-height: 44px;
+  font-weight: 700;
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+  margin-top: 75px;
+}
+.box31-p2{
+  font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    text-align: center;
+    color: #1c1e21;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+.box31-p3{
+  font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1c1e21;
+    
+    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    text-align: center;
+    margin-bottom: 115px;
+}
+.box32-p1{
+  color: #5E5E5E;
+  font-weight: 700;
+  font-size: 16px;
+    letter-spacing: .15em;
+    margin-bottom: 2px;
+    line-height: 34px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    display: block;
+   
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    margin-top:60px
+}
+.box32-p2{
+  font-size: 34px;
+    line-height: 44px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 700;
+    display: block;
+      
+    
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: center;
+    margin-top: -10px;
+}
+.box32-p3{
+  font-size: 18px;
+    line-height: 26px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    color: #1c1e21;    margin-block-end: 1em;
+    margin-block-start: 1em;
+    margin-inline-end: 0;
+    margin-inline-start: 0;
+    text-align:center;
+}
+h1{
+color:white;
+font-size: 16px;
+letter-spacing: 1.7px;
+line-height: 17px;
+font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+margin-bottom:42px;
+
+}
+h2{
+color: white;
+font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 10px;
+    
+    margin-block-start: 1.33em;
+    margin-block-end: 1.33em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    
+}
+/*part 6*/
+.part6-p1{
+  color: white;
+  font-size: 18px;
+  line-height: 26px;
+  font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+    padding-left: 234px;
+}
+.part6-p2{
+  color: white;
+  font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    font-family: Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    padding-left: 728px;
+  }
+
